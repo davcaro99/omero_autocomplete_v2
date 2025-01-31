@@ -5,7 +5,7 @@
       "48": "pollen.png",
       "96": "pollen.png"
     },
-    "version": "1.0",
+    "version": "2.0",
     "description": "Adds species name autocomplete from CSV files with only one column to web browser text inputs, focused on writing consistent OMERO tags.",
     "author": "David Caro",
     "permissions": ["storage", "activeTab"],

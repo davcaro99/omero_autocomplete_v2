@@ -1,4 +1,4 @@
-Species Autocomplete fo OMERO v1.0
+Species Autocomplete fo OMERO v2.0
 ---------------------------------------------------------------
 
 Overview
@@ -47,7 +47,7 @@ Additional Notes
 Privacy: The extension does not store or transmit any personal data (The extension works locally).
 Icon image: Picture of a pollen grain of Grimsdalea magnaclavata, taken with Confocal microscopy, Pollen Geo.
 Permissions: The extension requires access to local storage and access to specific webpages to enable autocomplete functionality.
-Version: 0.1
+Version: 2
 Author: David Caro
 Author email: decaroc@unal.edu.co
 
